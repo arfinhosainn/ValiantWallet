@@ -13,6 +13,8 @@
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/blockchain" />
             <option value="$PROJECT_DIR$/core" />
+            <option value="$PROJECT_DIR$/design-system" />
+            <option value="$PROJECT_DIR$/feature" />
           </set>
         </option>
         <option name="resolveExternalAnnotations" value="false" />

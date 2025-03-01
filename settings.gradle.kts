@@ -23,3 +23,5 @@ rootProject.name = "ValiantWallet"
 include(":app")
 include(":blockchain")
 include(":core")
+include(":design-system")
+include(":feature")

@@ -87,4 +87,9 @@ dependencies {
 
     implementation(project(":blockchain"))
     implementation(project(":core"))
+
+    //biometric
+    implementation(libs.androidx.biometric)
+
+    implementation(project(":design-system"))
 }

@@ -28,3 +28,21 @@ class MainActivity : ComponentActivity() {
 }
 
 
+@Composable
+fun SimpleText(modifier: Modifier = Modifier) {
+    Text("This is a text")
+
+}
+
+@Preview
+@Composable
+private fun PrviewText() {
+    SimpleText()
+
+}
+
+
+
+
+
+
